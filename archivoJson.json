@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chaqueta",
+        "code": "123BAG",
+        "description": "Chaqueta para hombre",
+        "discount": 10,
+        "price": 1200,
+        "stock": 12,
+        "image": "https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fimagen-de-archivo-ropa-de-moda-del-oto%25C3%25B1o-del-hombre-que-lleva-joven-image40823821&psig=AOvVaw3BqFvkv0g10C7lYd9X6HGZ&ust=1667002855562000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjfm9vTgfsCFQAAAAAdAAAAABAM",
+        "category": "Hombre"
+    },
+    {
+        "name": "Pantalon",
+        "code": "123GHY",
+        "description": "Pantalon para hombre",
+        "discount": 0,
+        "price": 1780,
+        "stock": 9,
+        "image": "https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F646548090241019834%2F&psig=AOvVaw3BqFvkv0g10C7lYd9X6HGZ&ust=1667002855562000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjfm9vTgfsCFQAAAAAdAAAAABAR",
+        "category": "Hombre"
+    },
+    {
+        "name": "Short Hombre",
+        "code": "GGDT6E2",
+        "description": "Short comodo para hombre",
+        "discount": 25,
+        "price": 768,
+        "stock": 2,
+        "image": "https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fleoncito025%2Fshort-hombre%2F&psig=AOvVaw1ka8CUB6616M1CdIbImBkU&ust=1667002932353000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDOr__TgfsCFQAAAAAdAAAAABAE",
+        "category": "Hombre"
+    },
+    {
+        "name": "Vestido",
+        "code": "HJSGYDG",
+        "description": "Vestido de verano",
+        "discount": 5,
+        "price": 1900,
+        "stock": 20,
+        "image": "",
+        "category": "Mujer"
+    },
+    {
+        "name": "Falda",
+        "code": "HFHDYFG",
+        "description": "Falda en color negro",
+        "discount": 15,
+        "price": 900,
+        "stock": 8,
+        "image": "",
+        "category": "Mujer"
+    },
+    {
+        "name": "Tacones",
+        "code": "HDYDRY",
+        "description": "Tacones 15cm para lucir increible",
+        "discount": 10,
+        "price": 1200,
+        "stock": 12,
+        "image": "",
+        "category": "Mujer"
+    }
+]
